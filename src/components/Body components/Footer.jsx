@@ -22,7 +22,7 @@ const Footer = () => {
       </div>
 
       <div className="myName bg-black text-white text-center py-4 font-Poppins">
-        Made with ❤️ by Apurva Gaurav
+        Made with ❤️ by Rajvardhan Singh
       </div>
     </div>
   );
