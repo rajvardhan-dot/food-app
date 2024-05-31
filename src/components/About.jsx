@@ -9,7 +9,7 @@ const About = () => {
         </span>
       </div>
       <div className="subHeading text-lg ml-24 mt-4 ">
-        - Created by Apurva Gaurav
+        - Created by Rajvardhan Singh
       </div>
       <Link to={"/"}>
         <button className="bg-orange-500 rounded-md hover:bg-orange-600 transition-all text-white font-bold font-Poppins mt-16 p-3">
